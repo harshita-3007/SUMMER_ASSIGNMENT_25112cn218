@@ -3,7 +3,7 @@ public class Q31 {
         char ch='E';
         for(char i='A';i<=ch;i++){
             for(char j='A';j<=i;j++){
-                System.out.print(j);
+                System.out.print(char(j));
             }
             System.out.println();
         }
